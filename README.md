@@ -4,7 +4,7 @@
 # 🌾 KisanMitra
 
 Demo Video Link:
-https://www.youtube.com/watch?v=aqaDQTVpozY&ab_channel=KevalShah
+https://youtu.be/ZBL_5pXa2I0
 
 This project allows users to manage and analyze agricultural data from their farmland using GIS technology. It provides detailed insights on soil health, land characteristics, crop recommendations, weather forecasts, and AI-based analysis for optimal farming decisions.
 
